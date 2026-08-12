@@ -1,6 +1,8 @@
-### Hi, I'm Sudheer Kumar Gandiboyana
+# Sudheer Kumar Gandiboyana
 
-Data-driven analytics professional with 2+ years of experience in data analysis, process optimization, and quality analytics. Currently pursuing an MS in Business Analytics at DePaul University (GPA 3.925).
+**Data Analyst / Business Analyst** | MS in Business Analytics candidate, DePaul University (GPA 3.925)
+
+Sudheer Kumar Gandiboyana is a data-driven analytics professional with 2+ years of experience in data analysis, process optimization, and quality analytics. Currently pursuing an MS in Business Analytics at DePaul University.
 
 **Skills:** Python, SQL, R, Power BI, Tableau, AWS, Machine Learning, Statistical Analysis
 
@@ -13,4 +15,4 @@ Data-driven analytics professional with 2+ years of experience in data analysis,
 - [MorningStar](https://github.com/sudheer-050/MorningStar) — NLP pipeline classifying corporate text into 145 GECS industries (TF-IDF, LinearSVC)
 - [HAI-messenger](https://github.com/sudheer-050/HAI-messenger) — self-hosted, end-to-end encrypted chat app with real-time AI assistant
 
-**Connect:** [LinkedIn](https://linkedin.com/in/sudheergsk) · gsudheer56@gmail.com
+**Connect:** [LinkedIn](https://linkedin.com/in/sudheergsk) · [GitHub](https://github.com/sudheer-050) · gsudheer56@gmail.com
