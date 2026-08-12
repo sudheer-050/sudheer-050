@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Sudheer Kumar Gandiboyana
 
-<!--
-**sudheer-050/sudheer-050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data-driven analytics professional with 2+ years of experience in data analysis, process optimization, and quality analytics. Currently pursuing an MS in Business Analytics at DePaul University (GPA 3.925).
 
-Here are some ideas to get you started:
+**Skills:** Python, SQL, R, Power BI, Tableau, AWS, Machine Learning, Statistical Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Experience**
+- Data Analytics Intern @ Unified Mentor — built Power BI dashboards & predictive models, analyzed 1M+ records, drove 10% gains in sales/retention metrics
+- Junior Engineer @ Hetero Labs Limited — quality/yield analytics, process improvement (cut filtration time 8hrs to 45min), trained 8+ team members
+
+**Projects**
+- [H-AI](https://github.com/sudheer-050/H-AI) — local, memory-aware AI assistant (Python, Ollama, Llama 3)
+- [MorningStar](https://github.com/sudheer-050/MorningStar) — NLP pipeline classifying corporate text into 145 GECS industries (TF-IDF, LinearSVC)
+- [HAI-messenger](https://github.com/sudheer-050/HAI-messenger) — self-hosted, end-to-end encrypted chat app with real-time AI assistant
+
+**Connect:** [LinkedIn](https://linkedin.com/in/sudheergsk) · gsudheer56@gmail.com
