@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/signal-banner.svg" width="100%" alt="Sudheer Kumar Gandiboyana — Machine Learning and AI Engineer" />
+  <img src="./assets/signal-banner.svg" width="100%" alt="Sudheer Kumar Gandiboyana — AI/ML Engineer and Analyst" />
 </p>
 
 <p align="center">
