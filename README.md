@@ -1,18 +1,18 @@
 # Sudheer Kumar Gandiboyana
 
-**Data Analyst / Business Analyst** | MS in Business Analytics candidate, DePaul University (GPA 3.925)
+**Machine Learning & AI Engineer** | DePaul University MSBA (GPA 3.925) | Chicago, IL | Open to full-time roles
 
-Sudheer Kumar Gandiboyana is a data-driven analytics professional with 2+ years of experience in data analysis, process optimization, and quality analytics. Currently pursuing an MS in Business Analytics at DePaul University.
+I build production AI, NLP, analytics, and data products end to end—from Python/SQL and model development through FastAPI, Docker, CI/CD, and deployment.
 
-**Skills:** Python, SQL, R, Power BI, Tableau, AWS, Machine Learning, Statistical Analysis
+[Portfolio](https://sudheerkumargandiboyana.com) · [Resume](https://sudheerkumargandiboyana.com/resume.html) · [LinkedIn](https://linkedin.com/in/sudheergsk) · [PyPI](https://pypi.org/user/gsudheer56/) · [Email](mailto:gsudheer56@gmail.com)
 
-**Experience**
-- Data Analytics Intern @ Unified Mentor — built Power BI dashboards & predictive models, analyzed 1M+ records, drove 10% gains in sales/retention metrics
-- Junior Engineer @ Hetero Labs Limited — quality/yield analytics, process improvement (cut filtration time 8hrs to 45min), trained 8+ team members
+## Selected projects
 
-**Projects**
-- [H-AI](https://github.com/sudheer-050/H-AI) — local, memory-aware AI assistant (Python, Ollama, Llama 3)
-- [MorningStar](https://github.com/sudheer-050/MorningStar) — NLP pipeline classifying corporate text into 145 GECS industries (TF-IDF, LinearSVC)
-- [HAI-messenger](https://github.com/sudheer-050/HAI-messenger) — self-hosted, end-to-end encrypted chat app with real-time AI assistant
+- [Hagent](https://github.com/sudheer-050/hagent) — self-hosted multi-agent orchestration platform built with Python.
+- [bizpack](https://pypi.org/project/bizpack/) — published Python toolkit for cleaning messy business spreadsheets.
+- [MorningStar](https://github.com/sudheer-050/MorningStar) — NLP industry classifier spanning 145 classes.
+- [HAI Messenger](https://github.com/sudheer-050/HAI-messenger) — production real-time encrypted chat with a local-LLM assistant.
 
-**Connect:** [LinkedIn](https://linkedin.com/in/sudheergsk) · [GitHub](https://github.com/sudheer-050) · gsudheer56@gmail.com
+## Core stack
+
+Python · SQL · FastAPI · scikit-learn · XGBoost · TensorFlow · NLP · LLM agents · Docker · PostgreSQL · Power BI · Tableau
