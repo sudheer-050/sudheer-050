@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sudheer Kumar Gandiboyana — Machine Learning and AI Engineer</title>
+  <desc id="desc">An animated signal map with flowing data paths and pulsing nodes.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7a3d"/><stop offset="1" stop-color="#ffb36b"/></linearGradient>
+    <radialGradient id="glow" cx="75%" cy="46%" r="55%"><stop offset="0" stop-color="#ff7138" stop-opacity=".18"/><stop offset="1" stop-color="#ff7138" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity=".055" stroke-width="1"/></pattern>
+    <filter id="soft-glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect width="1200" height="300" rx="22"/></clipPath>
+  </defs>
+  <style>
+    .flow { stroke-dasharray: 10 18; animation: stream 8s linear infinite; }
+    .flow.slow { animation-duration: 12s; animation-direction: reverse; }
+    .pulse { animation: pulse 2.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .pulse.delay { animation-delay: -1.2s; }
+    .scan { animation: scan 7s ease-in-out infinite; }
+    @keyframes stream { to { stroke-dashoffset: -112; } }
+    @keyframes pulse { 0%,100% { opacity:.35; transform:scale(.75) } 50% { opacity:1; transform:scale(1.25) } }
+    @keyframes scan { 0%,100% { transform:translateX(-260px); opacity:0 } 18%,82% { opacity:.55 } 50% { transform:translateX(1180px); opacity:.1 } }
+    @media (prefers-reduced-motion: reduce) { .flow,.pulse,.scan { animation:none } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="#0b0d10"/><rect width="1200" height="300" fill="url(#grid)"/><rect width="1200" height="300" fill="url(#glow)"/>
+    <g opacity=".65" fill="none" stroke="#ff8a4c" stroke-width="1.5">
+      <path class="flow slow" d="M650 55C790 50 830 122 934 112S1080 54 1215 74"/>
+      <path class="flow" d="M622 205C747 160 824 263 944 211S1094 170 1228 220"/>
+      <path class="flow slow" d="M730 290C760 223 814 157 888 148S1012 190 1077 120 1162 32 1245 25"/>
+    </g>
+    <g fill="#ff8a4c" filter="url(#soft-glow)"><circle class="pulse" cx="744" cy="74" r="4"/><circle class="pulse delay" cx="888" cy="148" r="5"/><circle class="pulse" cx="944" cy="211" r="4"/><circle class="pulse delay" cx="1077" cy="120" r="4"/></g>
+    <g opacity=".16" stroke="#ffffff" fill="none"><circle cx="888" cy="148" r="44"/><circle cx="888" cy="148" r="76"/><circle cx="888" cy="148" r="112"/></g>
+    <rect class="scan" x="0" y="0" width="170" height="300" fill="url(#edge)" opacity=".2" transform="skewX(-18)"/>
+    <text x="70" y="82" fill="#ff8a4c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3">BUILD / TEST / SHIP</text>
+    <text x="66" y="148" fill="#f7f4ef" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="760">Sudheer Kumar</text>
+    <text x="68" y="190" fill="#f7f4ef" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="760">Gandiboyana</text>
+    <text x="70" y="235" fill="#a8afb9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" letter-spacing=".4">Machine Learning &amp; AI Engineer · Chicago</text>
+    <rect x="70" y="260" width="48" height="3" rx="1.5" fill="#ff7a3d"/><rect x="126" y="260" width="15" height="3" rx="1.5" fill="#f7f4ef" opacity=".4"/>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="298.5" rx="21.25" fill="none" stroke="#ffffff" stroke-opacity=".11" stroke-width="1.5"/>
+</svg>
