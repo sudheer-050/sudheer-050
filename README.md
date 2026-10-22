@@ -11,54 +11,27 @@
 
 <p align="center"><code>AI systems</code> · <code>NLP</code> · <code>data products</code> · <code>LLM agents</code></p>
 
-## I build systems that leave the notebook.
+<!-- BEGIN SHARED CATALOG -->
+## Sudheer Kumar Gandiboyana · AI/ML Engineer and Analyst
 
-I turn machine-learning ideas into useful products—from Python and SQL through APIs, containers, testing, and deployment. I’m completing an MS in Business Analytics at DePaul University and looking for full-time ML, AI, and data roles.
+DePaul University MS Business Analytics graduate (June 2026, GPA 3.925), building machine learning pipelines, AI tools and deployed data products. Open to ML, AI, data science and analytics engineering roles.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/sudheer-050/hagent">Hagent</a></h3>
-      <p>A self-hosted multi-agent orchestration platform with observable runs, reusable skills, and production-minded controls.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>LLM agents</code> <code>Docker</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/sudheer-050/job-portal">Job Portal</a></h3>
-      <p>A personalized, self-hosted job search portal with multi-source collection and explainable matching.</p>
-      <p><code>JavaScript</code> <code>matching</code> <code>automation</code> <code>self-hosted</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/sudheer-050/HAI-messenger">HAI Messenger</a></h3>
-      <p>Real-time encrypted chat with in-chat games, anonymous matching, and a local-Ollama assistant.</p>
-      <p><code>WebSockets</code> <code>Ollama</code> <code>Docker</code> <code>HTML</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/sudheer-050/H-AI">H-AI</a></h3>
-      <p>A local, memory-aware AI assistant with multi-user histories, summaries, and relevant-memory recall.</p>
-      <p><code>Python</code> <code>Ollama</code> <code>Llama 3</code> <code>local AI</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧭 <a href="https://github.com/sudheer-050/MorningStar">MorningStar</a></h3>
-      <p>An NLP pipeline that classifies corporate descriptions across 145 hierarchical industry classes.</p>
-      <p><code>scikit-learn</code> <code>TF-IDF</code> <code>LinearSVC</code> <code>NLP</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/sudheer-050/bizpack">bizpack</a></h3>
-      <p>A published Python toolkit for cleaning messy spreadsheets and repeatable business-analysis workflows.</p>
-      <p><code>Python</code> <code>pandas</code> <code>Excel</code> <code>PyPI</code></p>
-    </td>
-  </tr>
-</table>
+- [Dotflow](https://myhai.org/projects/dotflow/) — Private voice typing, personal notes and meeting transcripts for Windows, with local English speech recognition and selectable microphone or computer audio.
+- [HGPT](https://myhai.org/projects/hgpt/) — A self-hosted AI workspace where conversations, projects, decisions, and explicit memory remain available even when the selected model changes.
+- [H AI](https://myhai.org/projects/h/) — HAI’s conversational assistant for text and hands-free voice chat, available instantly without creating an account.
+- [Hagent](https://myhai.org/projects/hagent/) — A self-hosted control plane for projects, issues, AI agents, squads, skills, and scheduled autopilots, available through a CLI and a web dashboard.
+- [Job Portal](https://myhai.org/projects/jobs/) — A private career-search command center that gathers real openings, explains their fit, and keeps applications, follow-ups, and preparation in one workflow.
+- [BizPack](https://myhai.org/projects/bizpack/) — An open-source Python library that converts messy, internationally formatted corporate spreadsheets into clean, auditable pandas DataFrames.
+- [MorningStar NLP Classifier](https://myhai.org/projects/morningstar/) — A natural-language classification pipeline that maps corporate business descriptions into a 145-category hierarchical industry taxonomy.
+- [Portfolio Website](https://myhai.org/projects/portfolio/) — A cinematic personal portfolio with animated project storytelling, multiple visual modes, and a private content-management backend.
+- [Auto Data Analyst](https://myhai.org/projects/analyst/) — Upload a CSV and move from raw data to cleaning, exploration, model comparison, and plain-language recommendations through one guided interface.
+- [HAI Messenger](https://myhai.org/projects/hai/) — A free, self-hosted messenger with encrypted real-time chat, media sharing, voice notes, in-chat games, groups, and ephemeral Nearby conversations.
+- [Personal AI Agent](https://myhai.org/projects/agent/) — A local, memory-aware assistant built with Python and Ollama for personal conversation, decision support, and continuity across sessions.
+- [Dating-Website Application](https://myhai.org/projects/dating/) — A graduate team project focused on designing and evaluating AI-assisted compatibility matching for a dating application.
+- [tabula-rasa](https://myhai.org/projects/tabula-rasa/) — An experimental ARC-AGI-3 agent that explores unfamiliar interactive puzzles, with open experiment traces, a technical paper and reproduction instructions.
 
-### More public builds
-
-- **[Portfolio](https://github.com/sudheer-050/portfolio)** — current portfolio and resume experience.
-- **[sudheer-050.github.io](https://github.com/sudheer-050/sudheer-050.github.io)** — earlier portfolio and resume site.
-- **[Agentforce](https://github.com/sudheer-050/Agentforce)** — Agentforce experiments and implementation work.
+[Portfolio](https://sudheerkumargandiboyana.com/) · [Résumé](https://sudheerkumargandiboyana.com/resume.html) · [Apps](https://myhai.org/)
+<!-- END SHARED CATALOG -->
 
 ## Working set
 
