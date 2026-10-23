@@ -16,7 +16,7 @@
 
 DePaul University MS Business Analytics graduate (June 2026, GPA 3.925), building machine learning pipelines, AI tools and deployed data products. Open to ML, AI, data science and analytics engineering roles.
 
-- [Notewll](https://myhai.org/projects/dotflow/) — A Windows voice notetaker with a shortcut for typing into notes, browsers, editors and terminals, plus local voice-note and meeting recordings.
+- [Notewll](https://myhai.org/projects/dotflow/) — Local Windows voice typing that recognizes speech while you talk, with optional background grammar, personal notes and meeting recordings.
 - [HGPT](https://myhai.org/projects/hgpt/) — A self-hosted AI workspace where conversations, projects, decisions, and explicit memory remain available even when the selected model changes.
 - [H AI](https://myhai.org/projects/h/) — HAI’s conversational assistant for text and hands-free voice chat, available instantly without creating an account.
 - [Hagent](https://myhai.org/projects/hagent/) — A self-hosted control plane for projects, issues, AI agents, squads, skills, and scheduled autopilots, available through a CLI and a web dashboard.
