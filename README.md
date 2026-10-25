@@ -16,19 +16,19 @@
 
 DePaul University MS Business Analytics graduate (June 2026, GPA 3.925), building machine learning pipelines, AI tools and deployed data products. Open to ML, AI, data science and analytics engineering roles.
 
-- [Notewll](https://myhai.org/projects/dotflow/) — Raw or modified speech-to-text, voice notes and meeting transcripts for Windows. Keep your words and work on your own computer.
-- [HGPT](https://myhai.org/projects/hgpt/) — A self-hosted AI workspace where conversations, projects, decisions, and explicit memory remain available even when the selected model changes.
-- [H AI](https://myhai.org/projects/h/) — HAI’s conversational assistant for text and hands-free voice chat, available instantly without creating an account.
-- [Hagent](https://myhai.org/projects/hagent/) — A self-hosted control plane for projects, issues, AI agents, squads, skills, and scheduled autopilots, available through a CLI and a web dashboard.
-- [Job Portal](https://myhai.org/projects/jobs/) — A private career-search command center that gathers real openings, explains their fit, and keeps applications, follow-ups, and preparation in one workflow.
-- [BizPack](https://myhai.org/projects/bizpack/) — An open-source Python library that converts messy, internationally formatted corporate spreadsheets into clean, auditable pandas DataFrames.
-- [MorningStar NLP Classifier](https://myhai.org/projects/morningstar/) — A natural-language classification pipeline that maps corporate business descriptions into a 145-category hierarchical industry taxonomy.
-- [Portfolio Website](https://myhai.org/projects/portfolio/) — A cinematic personal portfolio with animated project storytelling, multiple visual modes, and a private content-management backend.
-- [Auto Data Analyst](https://myhai.org/projects/analyst/) — Upload a CSV and move from raw data to cleaning, exploration, model comparison, and plain-language recommendations through one guided interface.
-- [HAI Messenger](https://myhai.org/projects/hai/) — A free, self-hosted messenger with encrypted real-time chat, media sharing, voice notes, in-chat games, groups, and ephemeral Nearby conversations.
-- [Personal AI Agent](https://myhai.org/projects/agent/) — A local, memory-aware assistant built with Python and Ollama for personal conversation, decision support, and continuity across sessions.
-- [Dating-Website Application](https://myhai.org/projects/dating/) — A graduate team project focused on designing and evaluating AI-assisted compatibility matching for a dating application.
-- [tabula-rasa](https://myhai.org/projects/tabula-rasa/) — An experimental ARC-AGI-3 agent that explores unfamiliar interactive puzzles, with open experiment traces, a technical paper and reproduction instructions.
+- [Notewll](https://dotflow.myhai.org/) — Raw or modified speech-to-text, voice notes and meeting transcripts for Windows. Keep your words and work on your own computer.
+- [HGPT](https://hgpt.myhai.org/) — A self-hosted AI workspace where conversations, projects, decisions, and explicit memory remain available even when the selected model changes.
+- [H AI](https://h.myhai.org/) — HAI’s conversational assistant for text and hands-free voice chat, available instantly without creating an account.
+- [Hagent](https://hagent.myhai.org/) — A self-hosted control plane for projects, issues, AI agents, squads, skills, and scheduled autopilots, available through a CLI and a web dashboard.
+- [Job Portal](https://jobs.myhai.org/) — A private career-search command center that gathers real openings, explains their fit, and keeps applications, follow-ups, and preparation in one workflow.
+- [BizPack](https://bizpack.myhai.org/) — An open-source Python library that converts messy, internationally formatted corporate spreadsheets into clean, auditable pandas DataFrames.
+- [MorningStar NLP Classifier](https://morningstar.myhai.org/) — A natural-language classification pipeline that maps corporate business descriptions into a 145-category hierarchical industry taxonomy.
+- [Portfolio Website](https://portfolio.myhai.org/) — A cinematic personal portfolio with animated project storytelling, multiple visual modes, and a private content-management backend.
+- [Auto Data Analyst](https://analyst.myhai.org/) — Upload a CSV and move from raw data to cleaning, exploration, model comparison, and plain-language recommendations through one guided interface.
+- [HAI Messenger](https://hai.myhai.org/) — A free, self-hosted messenger with encrypted real-time chat, media sharing, voice notes, in-chat games, groups, and ephemeral Nearby conversations.
+- [Personal AI Agent](https://agent.myhai.org/) — A local, memory-aware assistant built with Python and Ollama for personal conversation, decision support, and continuity across sessions.
+- [Dating-Website Application](https://dating.myhai.org/) — A graduate team project focused on designing and evaluating AI-assisted compatibility matching for a dating application.
+- [tabula-rasa](https://tabula-rasa.myhai.org/) — An experimental ARC-AGI-3 agent that explores unfamiliar interactive puzzles, with open experiment traces, a technical paper and reproduction instructions.
 
 [Portfolio](https://sudheerkumargandiboyana.com/) · [Résumé](https://sudheerkumargandiboyana.com/resume.html) · [Apps](https://myhai.org/)
 <!-- END SHARED CATALOG -->
