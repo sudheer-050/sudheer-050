@@ -12,9 +12,9 @@
 <p align="center"><code>AI systems</code> · <code>NLP</code> · <code>data products</code> · <code>LLM agents</code></p>
 
 <!-- BEGIN SHARED CATALOG -->
-## Sudheer Kumar Gandiboyana · AI/ML Engineer and Analyst
+## Sudheer Kumar Gandiboyana · AI/ML Engineer & Data/Business Analyst
 
-DePaul University MS Business Analytics graduate (June 2026, GPA 3.925), building machine learning pipelines, AI tools and deployed data products. Open to ML, AI, data science and analytics engineering roles.
+Chicago-based AI/ML engineer and data/business analyst with a DePaul MS in Business Analytics (GPA 3.925). Builds deployed AI products, local speech tools, agent workflows and analytics software with Python, SQL and Docker.
 
 - [Notewll](https://notewll.myhai.org/) — Raw or modified speech-to-text, voice notes and meeting transcripts for Windows. Keep your words and work on your own computer.
 - [HGPT](https://hgpt.myhai.org/) — A self-hosted AI workspace where conversations, projects, decisions, and explicit memory remain available even when the selected model changes.
