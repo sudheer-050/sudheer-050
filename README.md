@@ -16,7 +16,7 @@
 
 Chicago-based AI/ML engineer and data/business analyst with a DePaul MS in Business Analytics (GPA 3.925). Builds deployed AI products, local speech tools, agent workflows and analytics software with Python, SQL and Docker.
 
-- [Notewll](https://notewll.myhai.org/) — Raw or modified speech-to-text, voice notes and meeting transcripts for Windows. Keep your words and work on your own computer.
+- [Notewll](https://notewll.myhai.org/) — Private Windows dictation, notes and meetings with a simpler workspace, clear word rules and always-visible voice analytics.
 - [HGPT](https://hgpt.myhai.org/) — A self-hosted AI workspace where conversations, projects, decisions, and explicit memory remain available even when the selected model changes.
 - [H AI](https://h.myhai.org/) — HAI’s conversational assistant for text and hands-free voice chat, available instantly without creating an account.
 - [Hagent](https://hagent.myhai.org/) — A self-hosted control plane for projects, issues, AI agents, squads, skills, and scheduled autopilots, available through a CLI and a web dashboard.
