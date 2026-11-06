@@ -29,7 +29,7 @@ Chicago-based AI/ML engineer with a DePaul MS in Business Analytics (GPA 3.925).
 - [Personal AI Agent](https://agent.myhai.org/) — A local, memory-aware assistant built with Python and Ollama for personal conversation, decision support, and continuity across sessions.
 - [Dating-Website Application](https://dating.myhai.org/) — A graduate team project focused on designing and evaluating AI-assisted compatibility matching for a dating application.
 - [tabula-rasa](https://tabula-rasa.myhai.org/) — An experimental ARC-AGI-3 agent that explores unfamiliar interactive puzzles, with open experiment traces, a technical paper and reproduction instructions.
-- [Hexra](https://hexra.myhai.org/) — Your hands, in control. Hexra turns one hand and a webcam into a mouse for Windows: cursor, click, drag, scroll and window moving across every screen, running entirely on your own computer.
+- [Hexra](https://hexra.myhai.org/) — Your hands, in control. Hexra turns one hand and a webcam into a mouse for Windows: cursor, click, drag, scroll and window commands across every screen. It calibrates to your own hand the first time you open it, runs in the system tray, and runs entirely on your own computer.
 
 [Portfolio](https://sudheerkumargandiboyana.com/) · [Résumé](https://sudheerkumargandiboyana.com/resume.html) · [Apps](https://myhai.org/)
 <!-- END SHARED CATALOG -->
