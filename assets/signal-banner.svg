@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Sudheer Kumar Gandiboyana — AI/ML Engineer and Analyst</title>
+  <title id="title">Sudheer Kumar Gandiboyana — Business Analyst | Data Analytics | AI &amp; Automation</title>
   <desc id="desc">An animated signal map with flowing data paths and pulsing nodes.</desc>
   <defs>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7a3d"/><stop offset="1" stop-color="#ffb36b"/></linearGradient>
@@ -29,10 +29,10 @@
     <g fill="#ff8a4c" filter="url(#soft-glow)"><circle class="pulse" cx="744" cy="74" r="4"/><circle class="pulse delay" cx="888" cy="148" r="5"/><circle class="pulse" cx="944" cy="211" r="4"/><circle class="pulse delay" cx="1077" cy="120" r="4"/></g>
     <g opacity=".16" stroke="#ffffff" fill="none"><circle cx="888" cy="148" r="44"/><circle cx="888" cy="148" r="76"/><circle cx="888" cy="148" r="112"/></g>
     <rect class="scan" x="0" y="0" width="170" height="300" fill="url(#edge)" opacity=".2" transform="skewX(-18)"/>
-    <text x="70" y="82" fill="#ff8a4c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3">BUILD / TEST / SHIP</text>
+    <text x="70" y="82" fill="#ff8a4c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3">ANALYZE / IMPROVE / BUILD</text>
     <text x="66" y="148" fill="#f7f4ef" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="760">Sudheer Kumar</text>
     <text x="68" y="190" fill="#f7f4ef" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="760">Gandiboyana</text>
-    <text x="70" y="235" fill="#a8afb9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" letter-spacing=".4">AI/ML Engineer and Analyst · Chicago</text>
+    <text x="70" y="235" fill="#a8afb9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" letter-spacing=".4">Business Analyst | Data Analytics | AI &amp; Automation · Chicago</text>
     <rect x="70" y="260" width="48" height="3" rx="1.5" fill="#ff7a3d"/><rect x="126" y="260" width="15" height="3" rx="1.5" fill="#f7f4ef" opacity=".4"/>
   </g>
   <rect x=".75" y=".75" width="1198.5" height="298.5" rx="21.25" fill="none" stroke="#ffffff" stroke-opacity=".11" stroke-width="1.5"/>
