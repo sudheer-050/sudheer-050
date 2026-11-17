@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/signal-banner.svg" width="100%" alt="Sudheer Kumar Gandiboyana — AI/ML Engineer and Analyst" />
+  <img src="./assets/signal-banner.svg" width="100%" alt="Sudheer Kumar Gandiboyana — Business Analyst | Data Analytics | AI & Automation" />
 </p>
 
 <p align="center">
@@ -9,12 +9,12 @@
   <a href="mailto:gsudheer56@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-20242a?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 </p>
 
-<p align="center"><code>AI systems</code> · <code>NLP</code> · <code>data products</code> · <code>LLM agents</code></p>
+<p align="center"><code>Business analysis</code> · <code>Data analytics</code> · <code>AI &amp; automation</code></p>
 
 <!-- BEGIN SHARED CATALOG -->
-## Sudheer Kumar Gandiboyana · AI/ML Engineer & Analyst
+## Sudheer Kumar Gandiboyana · Business Analyst | Data Analytics | AI & Automation
 
-Analyst and engineer with an MS in Business Analytics (DePaul, June 2026, GPA 3.925) and a chemical engineering background. Works the full path from messy data to a deployed product: SQL and Python analysis, classical ML and NLP, Power BI and Tableau reporting, and self-hosted apps with automated tests. Seeking Data Analyst, Business Analyst, Financial Analyst, and AI/ML roles in the US.
+MS in Business Analytics graduate with experience in data analysis, forecasting, and operational process improvement. Skilled in SQL, Python, Excel, and Power BI, with hands-on project experience applying AI tools and machine learning to practical problems. Seeking a Business Analyst role combining business analysis, data-driven decision-making, and AI-enabled process improvement.
 
 - [Notewll](https://notewll.myhai.org/) — Private Windows dictation, notes and meetings with a simpler workspace, clear word rules and always-visible voice analytics.
 - [HGPT](https://hgpt.myhai.org/) — A self-hosted AI workspace where conversations, projects, decisions, and explicit memory remain available even when the selected model changes.
@@ -33,6 +33,16 @@ Analyst and engineer with an MS in Business Analytics (DePaul, June 2026, GPA 3.
 - [Belor](https://belor.myhai.org/) — One window for all your terminals and AI coding assistants. Color-coded tabs show what is running, finished, failed or waiting, and Belor tells you the moment Claude Code or Codex needs you.
 
 [Portfolio](https://sudheerkumargandiboyana.com/) · [Résumé](https://sudheerkumargandiboyana.com/resume.html) · [Apps](https://myhai.org/)
+
+### Microsoft Store publications
+
+- [Notewll](https://apps.microsoft.com/detail/9MTSFVDZD1C2) — Offline Windows dictation, notes, and meeting transcripts.
+- [Belor](https://apps.microsoft.com/detail/9PP9CFM54DH1) — Windows terminal workspace for shells and AI coding assistants.
+- [Hexra](https://apps.microsoft.com/detail/9N6FLHF607NT) — Webcam hand-tracking mouse for Windows.
+- [Tempo Planner](https://apps.microsoft.com/detail/9P0PSR5PK20K) — Local task planner with projects, a weekly calendar, and focus sessions.
+
+Personal applications were built with AI coding tools and continue to be improved.
+
 <!-- END SHARED CATALOG -->
 
 ## Working set
@@ -51,7 +61,7 @@ Analyst and engineer with an MS in Business Analytics (DePaul, June 2026, GPA 3.
 
 ```text
 CURRENT SIGNAL
-Building reliable agent systems, production ML workflows, and useful data tools.
+Business analysis, data analytics, and practical AI automation. Developing deeper AI/ML skills through hands-on projects.
 ```
 
 <p align="right"><a href="https://sudheerkumargandiboyana.com">See the full body of work →</a></p>
